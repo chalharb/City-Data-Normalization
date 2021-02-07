@@ -1,0 +1,796 @@
+id,city,zipcode,county,state
+1,Adams,37010,Robertson,TN
+2,Adamsville,38310,Mcnairy,TN
+3,Afton,37616,Greene,TN
+4,Alamo,38001,Crockett,TN
+5,Alcoa,37701,Blount,TN
+6,Alexandria,37012,Dekalb,TN
+7,Allardt,38504,Fentress,TN
+8,Allons,38541,Overton,TN
+9,Allred,38542,Overton,TN
+10,Alpine,38543,Overton,TN
+11,Altamont,37301,Grundy,TN
+12,Andersonville,37705,Anderson,TN
+13,Antioch,37011,Davidson,TN
+14,Antioch,37013,Davidson,TN
+15,Apison,37302,Hamilton,TN
+16,Ardmore,38449,Giles,TN
+17,Arlington,38002,Shelby,TN
+18,Arnold A F B,37389,Coffee,TN
+19,Arrington,37014,Williamson,TN
+20,Arthur,37707,Claiborne,TN
+21,Ashland City,37015,Cheatham,TN
+22,Athens,37303,Mcminn,TN
+23,Athens,37371,Mcminn,TN
+24,Atoka,38004,Tipton,TN
+25,Atwood,38220,Carroll,TN
+26,Auburntown,37016,Cannon,TN
+27,Bakewell,37304,Hamilton,TN
+28,Bath Springs,38311,Decatur,TN
+29,Baxter,38544,Putnam,TN
+30,Bean Station,37708,Grainger,TN
+31,Beech Bluff,38313,Madison,TN
+32,Beechgrove,37018,Coffee,TN
+33,Beersheba Springs,37305,Grundy,TN
+34,Belfast,37019,Marshall,TN
+35,Bell Buckle,37020,Bedford,TN
+36,Bells,38006,Crockett,TN
+37,Belvidere,37306,Franklin,TN
+38,Benton,37307,Polk,TN
+39,Bethel Springs,38315,Mcnairy,TN
+40,Bethpage,37022,Sumner,TN
+41,Big Rock,37023,Stewart,TN
+42,Big Sandy,38221,Benton,TN
+43,Birchwood,37308,Hamilton,TN
+44,Blaine,37709,Grainger,TN
+45,Bloomington Springs,38545,Putnam,TN
+46,Blountville,37617,Sullivan,TN
+47,Bluff City,37618,Sullivan,TN
+48,Bogota,38007,Dyer,TN
+49,Bolivar,38008,Hardeman,TN
+50,Bon Aqua,37025,Hickman,TN
+51,Braden,38010,Fayette,TN
+52,Bradford,38316,Gibson,TN
+53,Bradyville,37026,Cannon,TN
+54,Brentwood,37024,Williamson,TN
+55,Brentwood,37027,Williamson,TN
+56,Briceville,37710,Anderson,TN
+57,Brighton,38011,Tipton,TN
+58,Bristol,37620,Sullivan,TN
+59,Bristol,37621,Sullivan,TN
+60,Bristol,37625,Sullivan,TN
+61,Brownsville,38012,Haywood,TN
+62,Bruceton,38317,Carroll,TN
+63,Brunswick,38014,Shelby,TN
+64,Brush Creek,38547,Smith,TN
+65,Buchanan,38222,Henry,TN
+66,Buena Vista,38318,Carroll,TN
+67,Buffalo Valley,38548,Putnam,TN
+68,Bulls Gap,37711,Hawkins,TN
+69,Bumpus Mills,37028,Stewart,TN
+70,Burlison,38015,Tipton,TN
+71,Burns,37029,Dickson,TN
+72,Butler,37640,Johnson,TN
+73,Bybee,37713,Cocke,TN
+74,Byrdstown,38549,Pickett,TN
+75,Calhoun,37309,Mcminn,TN
+76,Camden,38320,Benton,TN
+77,Campaign,38550,Warren,TN
+78,Carthage,37030,Smith,TN
+79,Caryville,37714,Campbell,TN
+80,Castalian Springs,37031,Sumner,TN
+81,Cedar Grove,38321,Carroll,TN
+82,Cedar Hill,37032,Robertson,TN
+83,Celina,38551,Clay,TN
+84,Centerville,37033,Hickman,TN
+85,Chapel Hill,37034,Marshall,TN
+86,Chapmansboro,37035,Cheatham,TN
+87,Charleston,37310,Bradley,TN
+88,Charlotte,37036,Dickson,TN
+89,Chattanooga,37401,Hamilton,TN
+90,Chattanooga,37402,Hamilton,TN
+91,Chattanooga,37403,Hamilton,TN
+92,Chattanooga,37404,Hamilton,TN
+93,Chattanooga,37405,Hamilton,TN
+94,Chattanooga,37406,Hamilton,TN
+95,Chattanooga,37407,Hamilton,TN
+96,Chattanooga,37408,Hamilton,TN
+97,Chattanooga,37409,Hamilton,TN
+98,Chattanooga,37410,Hamilton,TN
+99,Chattanooga,37411,Hamilton,TN
+100,Chattanooga,37412,Hamilton,TN
+101,Chattanooga,37414,Hamilton,TN
+102,Chattanooga,37415,Hamilton,TN
+103,Chattanooga,37416,Hamilton,TN
+104,Chattanooga,37419,Hamilton,TN
+105,Chattanooga,37421,Hamilton,TN
+106,Chattanooga,37422,Hamilton,TN
+107,Chattanooga,37424,Hamilton,TN
+108,Chattanooga,37450,Hamilton,TN
+109,Chestnut Mound,38552,Smith,TN
+110,Chewalla,38393,Mcnairy,TN
+111,Christiana,37037,Rutherford,TN
+112,Chuckey,37641,Greene,TN
+113,Church Hill,37642,Hawkins,TN
+114,Clairfield,37715,Claiborne,TN
+115,Clarkrange,38553,Fentress,TN
+116,Clarksburg,38324,Carroll,TN
+117,Clarksville,37040,Montgomery,TN
+118,Clarksville,37041,Montgomery,TN
+119,Clarksville,37042,Montgomery,TN
+120,Clarksville,37043,Montgomery,TN
+121,Clarksville,37044,Montgomery,TN
+122,Cleveland,37311,Bradley,TN
+123,Cleveland,37312,Bradley,TN
+124,Cleveland,37320,Bradley,TN
+125,Cleveland,37323,Bradley,TN
+126,Cleveland,37364,Bradley,TN
+127,Clifton,38425,Wayne,TN
+128,Clinton,37716,Anderson,TN
+129,Clinton,37717,Anderson,TN
+130,Coalfield,37719,Morgan,TN
+131,Coalmont,37313,Grundy,TN
+132,Cokercreek,37314,Monroe,TN
+133,College Grove,37046,Williamson,TN
+134,Collegedale,37315,Hamilton,TN
+135,Collierville,38017,Shelby,TN
+136,Collierville,38027,Shelby,TN
+137,Collinwood,38450,Wayne,TN
+138,Columbia,38401,Maury,TN
+139,Columbia,38402,Maury,TN
+140,Como,38223,Henry,TN
+141,Conasauga,37316,Polk,TN
+142,Cookeville,38501,Putnam,TN
+143,Cookeville,38502,Putnam,TN
+144,Cookeville,38503,Putnam,TN
+145,Cookeville,38505,Putnam,TN
+146,Cookeville,38506,Putnam,TN
+147,Copperhill,37317,Polk,TN
+148,Cordova,38016,Shelby,TN
+149,Cordova,38018,Shelby,TN
+150,Cordova,38088,Shelby,TN
+151,Cornersville,37047,Marshall,TN
+152,Corryton,37721,Knox,TN
+153,Cosby,37722,Cocke,TN
+154,Cottage Grove,38224,Henry,TN
+155,Cottontown,37048,Sumner,TN
+156,Counce,38326,Hardin,TN
+157,Covington,38019,Tipton,TN
+158,Cowan,37318,Franklin,TN
+159,Crab Orchard,37723,Cumberland,TN
+160,Crawford,38554,Overton,TN
+161,Crockett Mills,38021,Crockett,TN
+162,Cross Plains,37049,Robertson,TN
+163,Crossville,38555,Cumberland,TN
+164,Crossville,38557,Cumberland,TN
+165,Crossville,38558,Cumberland,TN
+166,Crossville,38571,Cumberland,TN
+167,Crossville,38572,Cumberland,TN
+168,Crump,38327,Hardin,TN
+169,Culleoka,38451,Maury,TN
+170,Cumberland City,37050,Stewart,TN
+171,Cumberland Furnace,37051,Dickson,TN
+172,Cumberland Gap,37724,Claiborne,TN
+173,Cunningham,37052,Montgomery,TN
+174,Cypress Inn,38452,Wayne,TN
+175,Dandridge,37725,Jefferson,TN
+176,Darden,38328,Henderson,TN
+177,Dayton,37321,Rhea,TN
+178,Decatur,37322,Meigs,TN
+179,Decaturville,38329,Decatur,TN
+180,Decherd,37324,Franklin,TN
+181,Deer Lodge,37726,Morgan,TN
+182,Del Rio,37727,Cocke,TN
+183,Delano,37325,Polk,TN
+184,Dellrose,38453,Lincoln,TN
+185,Denmark,38391,Madison,TN
+186,Dickson,37055,Dickson,TN
+187,Dickson,37056,Dickson,TN
+188,Dixon Springs,37057,Smith,TN
+189,Dover,37058,Stewart,TN
+190,Dowelltown,37059,Dekalb,TN
+191,Doyle,38559,White,TN
+192,Dresden,38225,Weakley,TN
+193,Drummonds,38023,Tipton,TN
+194,Duck River,38454,Hickman,TN
+195,Ducktown,37326,Polk,TN
+196,Duff,37729,Campbell,TN
+197,Dukedom,38226,Weakley,TN
+198,Dunlap,37327,Sequatchie,TN
+199,Dyer,38330,Gibson,TN
+200,Dyersburg,38024,Dyer,TN
+201,Dyersburg,38025,Dyer,TN
+202,Eads,38028,Shelby,TN
+203,Eagan,37730,Claiborne,TN
+204,Eagleville,37060,Rutherford,TN
+205,Eaton,38331,Gibson,TN
+206,Eidson,37731,Hawkins,TN
+207,Elgin,37732,Scott,TN
+208,Elizabethton,37643,Carter,TN
+209,Elizabethton,37644,Carter,TN
+210,Elkton,38455,Giles,TN
+211,Ellendale,38029,Shelby,TN
+212,Elmwood,38560,Smith,TN
+213,Elora,37328,Lincoln,TN
+214,Englewood,37329,Mcminn,TN
+215,Enville,38332,Chester,TN
+216,Erin,37061,Houston,TN
+217,Erwin,37650,Unicoi,TN
+218,Estill Springs,37330,Franklin,TN
+219,Ethridge,38456,Lawrence,TN
+220,Etowah,37331,Mcminn,TN
+221,Eva,38333,Benton,TN
+222,Evensville,37332,Rhea,TN
+223,Fairview,37062,Williamson,TN
+224,Fall Branch,37656,Washington,TN
+225,Farner,37333,Polk,TN
+226,Fayetteville,37334,Lincoln,TN
+227,Finger,38334,Mcnairy,TN
+228,Finley,38030,Dyer,TN
+229,Five Points,38457,Lawrence,TN
+230,Flag Pond,37657,Unicoi,TN
+231,Flintville,37335,Lincoln,TN
+232,Fosterville,37063,Rutherford,TN
+233,Frankewing,38459,Lincoln,TN
+234,Franklin,37064,Williamson,TN
+235,Franklin,37065,Williamson,TN
+236,Franklin,37067,Williamson,TN
+237,Franklin,37068,Williamson,TN
+238,Franklin,37069,Williamson,TN
+239,Friendship,38034,Crockett,TN
+240,Friendsville,37737,Blount,TN
+241,Fruitvale,38336,Crockett,TN
+242,Gadsden,38337,Crockett,TN
+243,Gainesboro,38562,Jackson,TN
+244,Gallatin,37066,Sumner,TN
+245,Gallaway,38036,Fayette,TN
+246,Gates,38037,Lauderdale,TN
+247,Gatlinburg,37738,Sevier,TN
+248,Georgetown,37336,Meigs,TN
+249,Germantown,38138,Shelby,TN
+250,Germantown,38139,Shelby,TN
+251,Germantown,38183,Shelby,TN
+252,Gibson,38338,Gibson,TN
+253,Gladeville,37071,Wilson,TN
+254,Gleason,38229,Weakley,TN
+255,Goodlettsville,37070,Davidson,TN
+256,Goodlettsville,37072,Davidson,TN
+257,Goodspring,38460,Giles,TN
+258,Gordonsville,38563,Smith,TN
+259,Grand Junction,38039,Hardeman,TN
+260,Grandview,37337,Rhea,TN
+261,Granville,38564,Jackson,TN
+262,Graysville,37338,Rhea,TN
+263,Greenback,37742,Loudon,TN
+264,Greenbrier,37073,Robertson,TN
+265,Greeneville,37743,Greene,TN
+266,Greeneville,37744,Greene,TN
+267,Greeneville,37745,Greene,TN
+268,Greenfield,38230,Weakley,TN
+269,Grimsley,38565,Fentress,TN
+270,Gruetli Laager,37339,Grundy,TN
+271,Guild,37340,Marion,TN
+272,Guys,38339,Mcnairy,TN
+273,Halls,38040,Lauderdale,TN
+274,Hampshire,38461,Maury,TN
+275,Hampton,37658,Carter,TN
+276,Harriman,37748,Roane,TN
+277,Harrison,37341,Hamilton,TN
+278,Harrogate,37752,Claiborne,TN
+279,Hartford,37753,Cocke,TN
+280,Hartsville,37074,Trousdale,TN
+281,Heiskell,37754,Knox,TN
+282,Helenwood,37755,Scott,TN
+283,Henderson,38340,Chester,TN
+284,Hendersonville,37075,Sumner,TN
+285,Hendersonville,37077,Sumner,TN
+286,Henning,38041,Lauderdale,TN
+287,Henry,38231,Henry,TN
+288,Hermitage,37076,Davidson,TN
+289,Hickman,38567,Smith,TN
+290,Hickory Valley,38042,Hardeman,TN
+291,Hilham,38568,Overton,TN
+292,Hillsboro,37342,Coffee,TN
+293,Hixson,37343,Hamilton,TN
+294,Hohenwald,38462,Lewis,TN
+295,Holladay,38341,Benton,TN
+296,Hollow Rock,38342,Carroll,TN
+297,Hornbeak,38232,Obion,TN
+298,Hornsby,38044,Hardeman,TN
+299,Humboldt,38343,Gibson,TN
+300,Huntingdon,38344,Carroll,TN
+301,Huntland,37345,Franklin,TN
+302,Huntsville,37756,Scott,TN
+303,Huron,38345,Henderson,TN
+304,Hurricane Mills,37078,Humphreys,TN
+305,Idlewild,38346,Gibson,TN
+306,Indian Mound,37079,Stewart,TN
+307,Iron City,38463,Lawrence,TN
+308,Jacks Creek,38347,Chester,TN
+309,Jacksboro,37757,Campbell,TN
+310,Jackson,38301,Madison,TN
+311,Jackson,38302,Madison,TN
+312,Jackson,38303,Madison,TN
+313,Jackson,38305,Madison,TN
+314,Jackson,38308,Madison,TN
+315,Jackson,38314,Madison,TN
+316,Jamestown,38556,Fentress,TN
+317,Jasper,37347,Marion,TN
+318,Jefferson City,37760,Jefferson,TN
+319,Jellico,37762,Campbell,TN
+320,Joelton,37080,Davidson,TN
+321,Johnson City,37601,Washington,TN
+322,Johnson City,37602,Washington,TN
+323,Johnson City,37604,Washington,TN
+324,Johnson City,37605,Washington,TN
+325,Johnson City,37614,Washington,TN
+326,Johnson City,37615,Washington,TN
+327,Jonesborough,37659,Washington,TN
+328,Kelso,37348,Lincoln,TN
+329,Kenton,38233,Gibson,TN
+330,Kingsport,37660,Sullivan,TN
+331,Kingsport,37662,Sullivan,TN
+332,Kingsport,37663,Sullivan,TN
+333,Kingsport,37664,Sullivan,TN
+334,Kingsport,37665,Sullivan,TN
+335,Kingsport,37669,Sullivan,TN
+336,Kingston,37763,Roane,TN
+337,Kingston Springs,37082,Cheatham,TN
+338,Knoxville,37901,Knox,TN
+339,Knoxville,37902,Knox,TN
+340,Knoxville,37909,Knox,TN
+341,Knoxville,37912,Knox,TN
+342,Knoxville,37914,Knox,TN
+343,Knoxville,37915,Knox,TN
+344,Knoxville,37916,Knox,TN
+345,Knoxville,37917,Knox,TN
+346,Knoxville,37918,Knox,TN
+347,Knoxville,37919,Knox,TN
+348,Knoxville,37920,Knox,TN
+349,Knoxville,37921,Knox,TN
+350,Knoxville,37922,Knox,TN
+351,Knoxville,37923,Knox,TN
+352,Knoxville,37924,Knox,TN
+353,Knoxville,37927,Knox,TN
+354,Knoxville,37928,Knox,TN
+355,Knoxville,37929,Knox,TN
+356,Knoxville,37930,Knox,TN
+357,Knoxville,37931,Knox,TN
+358,Knoxville,37932,Knox,TN
+359,Knoxville,37933,Knox,TN
+360,Knoxville,37934,Knox,TN
+361,Knoxville,37938,Knox,TN
+362,Knoxville,37939,Knox,TN
+363,Knoxville,37940,Knox,TN
+364,Knoxville,37950,Knox,TN
+365,Knoxville,37990,Knox,TN
+366,Knoxville,37995,Knox,TN
+367,Knoxville,37996,Knox,TN
+368,Knoxville,37997,Knox,TN
+369,Knoxville,37998,Knox,TN
+370,Kodak,37764,Sevier,TN
+371,Kyles Ford,37765,Hancock,TN
+372,La Follette,37766,Campbell,TN
+373,La Grange,38046,Fayette,TN
+374,La Vergne,37086,Rutherford,TN
+375,La Vergne,37089,Rutherford,TN
+376,Laconia,38045,Fayette,TN
+377,Lafayette,37083,Macon,TN
+378,Lake City,37769,Anderson,TN
+379,Lancaster,38569,Smith,TN
+380,Lancing,37770,Morgan,TN
+381,Lascassas,37085,Rutherford,TN
+382,Laurel Bloomery,37680,Johnson,TN
+383,Lavinia,38348,Carroll,TN
+384,Lawrenceburg,38464,Lawrence,TN
+385,Lebanon,37087,Wilson,TN
+386,Lebanon,37088,Wilson,TN
+387,Lebanon,37090,Wilson,TN
+388,Lenoir City,37771,Loudon,TN
+389,Lenoir City,37772,Loudon,TN
+390,Lenox,38047,Dyer,TN
+391,Leoma,38468,Lawrence,TN
+392,Lewisburg,37091,Marshall,TN
+393,Lexington,38351,Henderson,TN
+394,Liberty,37095,Dekalb,TN
+395,Limestone,37681,Washington,TN
+396,Linden,37096,Perry,TN
+397,Livingston,38570,Overton,TN
+398,Lobelville,37097,Perry,TN
+399,Lone Mountain,37773,Claiborne,TN
+400,Lookout Mountain,37350,Hamilton,TN
+401,Loretto,38469,Lawrence,TN
+402,Loudon,37774,Loudon,TN
+403,Louisville,37777,Blount,TN
+404,Lowland,37778,Hamblen,TN
+405,Lupton City,37351,Hamilton,TN
+406,Luray,38352,Chester,TN
+407,Luttrell,37779,Union,TN
+408,Lutts,38471,Wayne,TN
+409,Lyles,37098,Hickman,TN
+410,Lynchburg,37352,Moore,TN
+411,Lynnville,38472,Giles,TN
+412,Macon,38048,Fayette,TN
+413,Madison,37115,Davidson,TN
+414,Madison,37116,Davidson,TN
+415,Madisonville,37354,Monroe,TN
+416,Manchester,37349,Coffee,TN
+417,Manchester,37355,Coffee,TN
+418,Mansfield,38236,Henry,TN
+419,Martin,38237,Weakley,TN
+420,Martin,38238,Weakley,TN
+421,Maryville,37801,Blount,TN
+422,Maryville,37802,Blount,TN
+423,Maryville,37803,Blount,TN
+424,Maryville,37804,Blount,TN
+425,Mascot,37806,Knox,TN
+426,Mason,38049,Tipton,TN
+427,Maury City,38050,Crockett,TN
+428,Maynardville,37807,Union,TN
+429,Mc Donald,37353,Bradley,TN
+430,Mc Ewen,37101,Humphreys,TN
+431,Mc Kenzie,38201,Carroll,TN
+432,Mc Lemoresville,38235,Carroll,TN
+433,Mc Minnville,37110,Warren,TN
+434,Mc Minnville,37111,Warren,TN
+435,Medina,38355,Gibson,TN
+436,Medon,38356,Madison,TN
+437,Memphis,37501,Shelby,TN
+438,Memphis,37544,Shelby,TN
+439,Memphis,38101,Shelby,TN
+440,Memphis,38103,Shelby,TN
+441,Memphis,38104,Shelby,TN
+442,Memphis,38105,Shelby,TN
+443,Memphis,38106,Shelby,TN
+444,Memphis,38107,Shelby,TN
+445,Memphis,38108,Shelby,TN
+446,Memphis,38109,Shelby,TN
+447,Memphis,38110,Shelby,TN
+448,Memphis,38111,Shelby,TN
+449,Memphis,38112,Shelby,TN
+450,Memphis,38113,Shelby,TN
+451,Memphis,38114,Shelby,TN
+452,Memphis,38115,Shelby,TN
+453,Memphis,38116,Shelby,TN
+454,Memphis,38117,Shelby,TN
+455,Memphis,38118,Shelby,TN
+456,Memphis,38119,Shelby,TN
+457,Memphis,38120,Shelby,TN
+458,Memphis,38122,Shelby,TN
+459,Memphis,38124,Shelby,TN
+460,Memphis,38125,Shelby,TN
+461,Memphis,38126,Shelby,TN
+462,Memphis,38127,Shelby,TN
+463,Memphis,38128,Shelby,TN
+464,Memphis,38130,Shelby,TN
+465,Memphis,38131,Shelby,TN
+466,Memphis,38132,Shelby,TN
+467,Memphis,38133,Shelby,TN
+468,Memphis,38134,Shelby,TN
+469,Memphis,38135,Shelby,TN
+470,Memphis,38136,Shelby,TN
+471,Memphis,38137,Shelby,TN
+472,Memphis,38141,Shelby,TN
+473,Memphis,38142,Shelby,TN
+474,Memphis,38145,Shelby,TN
+475,Memphis,38147,Shelby,TN
+476,Memphis,38148,Shelby,TN
+477,Memphis,38150,Shelby,TN
+478,Memphis,38151,Shelby,TN
+479,Memphis,38152,Shelby,TN
+480,Memphis,38157,Shelby,TN
+481,Memphis,38159,Shelby,TN
+482,Memphis,38161,Shelby,TN
+483,Memphis,38163,Shelby,TN
+484,Memphis,38165,Shelby,TN
+485,Memphis,38166,Shelby,TN
+486,Memphis,38167,Shelby,TN
+487,Memphis,38168,Shelby,TN
+488,Memphis,38173,Shelby,TN
+489,Memphis,38174,Shelby,TN
+490,Memphis,38175,Shelby,TN
+491,Memphis,38177,Shelby,TN
+492,Memphis,38181,Shelby,TN
+493,Memphis,38182,Shelby,TN
+494,Memphis,38184,Shelby,TN
+495,Memphis,38186,Shelby,TN
+496,Memphis,38187,Shelby,TN
+497,Memphis,38188,Shelby,TN
+498,Memphis,38190,Shelby,TN
+499,Memphis,38193,Shelby,TN
+500,Memphis,38194,Shelby,TN
+501,Memphis,38197,Shelby,TN
+502,Mercer,38392,Madison,TN
+503,Michie,38357,Mcnairy,TN
+504,Middleton,38052,Hardeman,TN
+505,Midway,37809,Greene,TN
+506,Milan,38358,Gibson,TN
+507,Milledgeville,38359,Mcnairy,TN
+508,Milligan College,37682,Carter,TN
+509,Millington,38053,Shelby,TN
+510,Millington,38054,Shelby,TN
+511,Millington,38055,Shelby,TN
+512,Millington,38083,Shelby,TN
+513,Milton,37118,Rutherford,TN
+514,Minor Hill,38473,Giles,TN
+515,Mitchellville,37119,Sumner,TN
+516,Mohawk,37810,Greene,TN
+517,Monroe,38573,Overton,TN
+518,Monteagle,37356,Grundy,TN
+519,Monterey,38574,Putnam,TN
+520,Mooresburg,37811,Hawkins,TN
+521,Morris Chapel,38361,Hardin,TN
+522,Morrison,37357,Warren,TN
+523,Morristown,37813,Hamblen,TN
+524,Morristown,37814,Hamblen,TN
+525,Morristown,37815,Hamblen,TN
+526,Morristown,37816,Hamblen,TN
+527,Moscow,38057,Fayette,TN
+528,Mosheim,37818,Greene,TN
+529,Moss,38575,Clay,TN
+530,Mount Carmel,37645,Hawkins,TN
+531,Mount Juliet,37121,Wilson,TN
+532,Mount Juliet,37122,Wilson,TN
+533,Mount Pleasant,38474,Maury,TN
+534,Mountain City,37683,Johnson,TN
+535,Mountain Home,37684,Washington,TN
+536,Mulberry,37359,Lincoln,TN
+537,Munford,38058,Tipton,TN
+538,Murfreesboro,37127,Rutherford,TN
+539,Murfreesboro,37128,Rutherford,TN
+540,Murfreesboro,37129,Rutherford,TN
+541,Murfreesboro,37130,Rutherford,TN
+542,Murfreesboro,37131,Rutherford,TN
+543,Murfreesboro,37132,Rutherford,TN
+544,Murfreesboro,37133,Rutherford,TN
+545,Nashville,37201,Davidson,TN
+546,Nashville,37202,Davidson,TN
+547,Nashville,37203,Davidson,TN
+548,Nashville,37204,Davidson,TN
+549,Nashville,37205,Davidson,TN
+550,Nashville,37206,Davidson,TN
+551,Nashville,37207,Davidson,TN
+552,Nashville,37208,Davidson,TN
+553,Nashville,37209,Davidson,TN
+554,Nashville,37210,Davidson,TN
+555,Nashville,37211,Davidson,TN
+556,Nashville,37212,Davidson,TN
+557,Nashville,37213,Davidson,TN
+558,Nashville,37214,Davidson,TN
+559,Nashville,37215,Davidson,TN
+560,Nashville,37216,Davidson,TN
+561,Nashville,37217,Davidson,TN
+562,Nashville,37218,Davidson,TN
+563,Nashville,37219,Davidson,TN
+564,Nashville,37220,Davidson,TN
+565,Nashville,37221,Davidson,TN
+566,Nashville,37222,Davidson,TN
+567,Nashville,37224,Davidson,TN
+568,Nashville,37227,Davidson,TN
+569,Nashville,37228,Davidson,TN
+570,Nashville,37229,Davidson,TN
+571,Nashville,37230,Davidson,TN
+572,Nashville,37232,Davidson,TN
+573,Nashville,37234,Davidson,TN
+574,Nashville,37235,Davidson,TN
+575,Nashville,37236,Davidson,TN
+576,Nashville,37237,Davidson,TN
+577,Nashville,37238,Davidson,TN
+578,Nashville,37240,Davidson,TN
+579,Nashville,37241,Davidson,TN
+580,Nashville,37242,Davidson,TN
+581,Nashville,37243,Davidson,TN
+582,Nashville,37244,Davidson,TN
+583,Nashville,37245,Davidson,TN
+584,Nashville,37246,Davidson,TN
+585,Nashville,37247,Davidson,TN
+586,Nashville,37248,Davidson,TN
+587,Nashville,37249,Davidson,TN
+588,Nashville,37250,Davidson,TN
+589,New Johnsonville,37134,Humphreys,TN
+590,New Market,37820,Jefferson,TN
+591,New Tazewell,37824,Claiborne,TN
+592,New Tazewell,37825,Claiborne,TN
+593,Newbern,38059,Dyer,TN
+594,Newcomb,37819,Campbell,TN
+595,Newport,37821,Cocke,TN
+596,Newport,37822,Cocke,TN
+597,Niota,37826,Mcminn,TN
+598,Nolensville,37135,Williamson,TN
+599,Norene,37136,Wilson,TN
+600,Normandy,37360,Bedford,TN
+601,Norris,37828,Anderson,TN
+602,Nunnelly,37137,Hickman,TN
+603,Oak Ridge,37830,Anderson,TN
+604,Oak Ridge,37831,Anderson,TN
+605,Oakdale,37829,Morgan,TN
+606,Oakfield,38362,Madison,TN
+607,Oakland,38060,Fayette,TN
+608,Obion,38240,Obion,TN
+609,Ocoee,37361,Polk,TN
+610,Old Hickory,37138,Davidson,TN
+611,Oldfort,37362,Polk,TN
+612,Olivehill,38475,Hardin,TN
+613,Oliver Springs,37840,Roane,TN
+614,Oneida,37841,Scott,TN
+615,Only,37140,Hickman,TN
+616,Ooltewah,37363,Hamilton,TN
+617,Orlinda,37141,Robertson,TN
+618,Pall Mall,38577,Fentress,TN
+619,Palmer,37365,Grundy,TN
+620,Palmersville,38241,Weakley,TN
+621,Palmyra,37142,Montgomery,TN
+622,Paris,38242,Henry,TN
+623,Parrottsville,37843,Cocke,TN
+624,Parsons,38363,Decatur,TN
+625,Pegram,37143,Cheatham,TN
+626,Pelham,37366,Grundy,TN
+627,Petersburg,37144,Lincoln,TN
+628,Petros,37845,Morgan,TN
+629,Philadelphia,37846,Loudon,TN
+630,Pickwick Dam,38365,Hardin,TN
+631,Pigeon Forge,37863,Sevier,TN
+632,Pigeon Forge,37868,Sevier,TN
+633,Pikeville,37367,Bledsoe,TN
+634,Piney Flats,37686,Sullivan,TN
+635,Piney Flats,37699,Sullivan,TN
+636,Pinson,38366,Madison,TN
+637,Pioneer,37847,Campbell,TN
+638,Pleasant Hill,38578,Cumberland,TN
+639,Pleasant Shade,37145,Smith,TN
+640,Pleasant View,37146,Cheatham,TN
+641,Pocahontas,38061,Hardeman,TN
+642,Portland,37148,Sumner,TN
+643,Powder Springs,37848,Grainger,TN
+644,Powell,37849,Knox,TN
+645,Primm Springs,38476,Williamson,TN
+646,Prospect,38477,Giles,TN
+647,Pruden,37851,Claiborne,TN
+648,Pulaski,38478,Giles,TN
+649,Puryear,38251,Henry,TN
+650,Quebeck,38579,White,TN
+651,Ramer,38367,Mcnairy,TN
+652,Readyville,37149,Cannon,TN
+653,Reagan,38368,Henderson,TN
+654,Red Boiling Springs,37150,Macon,TN
+655,Reliance,37369,Polk,TN
+656,Riceville,37370,Mcminn,TN
+657,Rickman,38580,Overton,TN
+658,Riddleton,37151,Smith,TN
+659,Ridgely,38080,Lake,TN
+660,Ridgetop,37152,Robertson,TN
+661,Ripley,38063,Lauderdale,TN
+662,Rives,38253,Obion,TN
+663,Roan Mountain,37687,Carter,TN
+664,Robbins,37852,Scott,TN
+665,Rock Island,38581,Warren,TN
+666,Rockford,37853,Blount,TN
+667,Rockvale,37153,Rutherford,TN
+668,Rockwood,37854,Roane,TN
+669,Rogersville,37857,Hawkins,TN
+670,Rossville,38066,Fayette,TN
+671,Rugby,37733,Morgan,TN
+672,Russellville,37860,Hamblen,TN
+673,Rutherford,38369,Gibson,TN
+674,Rutledge,37861,Grainger,TN
+675,Saint Joseph,38481,Lawrence,TN
+676,Sale Creek,37373,Hamilton,TN
+677,Saltillo,38370,Hardin,TN
+678,Samburg,38254,Obion,TN
+679,Santa Fe,38482,Maury,TN
+680,Sardis,38371,Henderson,TN
+681,Saulsbury,38067,Hardeman,TN
+682,Savannah,38372,Hardin,TN
+683,Scotts Hill,38374,Decatur,TN
+684,Selmer,38375,Mcnairy,TN
+685,Sequatchie,37374,Marion,TN
+686,Sevierville,37862,Sevier,TN
+687,Sevierville,37864,Sevier,TN
+688,Sevierville,37876,Sevier,TN
+689,Sewanee,37375,Franklin,TN
+690,Sewanee,37383,Franklin,TN
+691,Seymour,37865,Sevier,TN
+692,Shady Valley,37688,Johnson,TN
+693,Sharon,38255,Weakley,TN
+694,Sharps Chapel,37866,Union,TN
+695,Shawanee,37867,Claiborne,TN
+696,Shelbyville,37160,Bedford,TN
+697,Shelbyville,37161,Bedford,TN
+698,Shelbyville,37162,Bedford,TN
+699,Sherwood,37376,Franklin,TN
+700,Shiloh,38376,Hardin,TN
+701,Signal Mountain,37377,Hamilton,TN
+702,Silerton,38377,Hardeman,TN
+703,Silver Point,38582,Putnam,TN
+704,Slayden,37165,Dickson,TN
+705,Smartt,37378,Warren,TN
+706,Smithville,37166,Dekalb,TN
+707,Smyrna,37167,Rutherford,TN
+708,Sneedville,37869,Hancock,TN
+709,Soddy Daisy,37379,Hamilton,TN
+710,Soddy Daisy,37384,Hamilton,TN
+711,Somerville,38068,Fayette,TN
+712,South Fulton,38257,Obion,TN
+713,South Pittsburg,37380,Marion,TN
+714,Southside,37171,Montgomery,TN
+715,Sparta,38583,White,TN
+716,Speedwell,37870,Claiborne,TN
+717,Spencer,38585,Van Buren,TN
+718,Spring City,37381,Rhea,TN
+719,Spring Creek,38378,Madison,TN
+720,Spring Hill,37174,Maury,TN
+721,Springfield,37172,Robertson,TN
+722,Springville,38256,Henry,TN
+723,Stanton,38069,Haywood,TN
+724,Stantonville,38379,Mcnairy,TN
+725,Stewart,37175,Houston,TN
+726,Strawberry Plains,37871,Jefferson,TN
+727,Sugar Tree,38380,Decatur,TN
+728,Summertown,38483,Lawrence,TN
+729,Summitville,37382,Coffee,TN
+730,Sunbright,37872,Morgan,TN
+731,Surgoinsville,37873,Hawkins,TN
+732,Sweetwater,37874,Monroe,TN
+733,Taft,38488,Lincoln,TN
+734,Talbott,37877,Hamblen,TN
+735,Tallassee,37878,Blount,TN
+736,Tazewell,37879,Claiborne,TN
+737,Telford,37690,Washington,TN
+738,Tellico Plains,37385,Monroe,TN
+739,Ten Mile,37880,Meigs,TN
+740,Tennessee Ridge,37178,Houston,TN
+741,Thompsons Station,37179,Williamson,TN
+742,Thorn Hill,37881,Grainger,TN
+743,Tigrett,38070,Dyer,TN
+744,Tipton,38071,Tipton,TN
+745,Tiptonville,38079,Lake,TN
+746,Toone,38381,Hardeman,TN
+747,Townsend,37882,Blount,TN
+748,Tracy City,37387,Grundy,TN
+749,Trade,37691,Johnson,TN
+750,Trenton,38382,Gibson,TN
+751,Trezevant,38258,Carroll,TN
+752,Trimble,38259,Dyer,TN
+753,Troy,38260,Obion,TN
+754,Tullahoma,37388,Coffee,TN
+755,Turtletown,37391,Polk,TN
+756,Unicoi,37692,Unicoi,TN
+757,Union City,38261,Obion,TN
+758,Union City,38281,Obion,TN
+759,Unionville,37180,Bedford,TN
+760,Vanleer,37181,Dickson,TN
+761,Viola,37394,Warren,TN
+762,Vonore,37885,Monroe,TN
+763,Walland,37886,Blount,TN
+764,Walling,38587,White,TN
+765,Wartburg,37887,Morgan,TN
+766,Wartrace,37183,Bedford,TN
+767,Washburn,37888,Grainger,TN
+768,Watauga,37694,Carter,TN
+769,Watertown,37184,Wilson,TN
+770,Waverly,37185,Humphreys,TN
+771,Waynesboro,38485,Wayne,TN
+772,Westmoreland,37186,Sumner,TN
+773,Westpoint,38486,Lawrence,TN
+774,Westport,38387,Carroll,TN
+775,White Bluff,37187,Dickson,TN
+776,White House,37188,Robertson,TN
+777,White Pine,37890,Jefferson,TN
+778,Whites Creek,37189,Davidson,TN
+779,Whitesburg,37891,Hamblen,TN
+780,Whiteside,37396,Marion,TN
+781,Whiteville,38075,Hardeman,TN
+782,Whitleyville,38588,Jackson,TN
+783,Whitwell,37397,Sequatchie,TN
+784,Wilder,38589,Overton,TN
+785,Wildersville,38388,Henderson,TN
+786,Williamsport,38487,Maury,TN
+787,Williston,38076,Fayette,TN
+788,Winchester,37398,Franklin,TN
+789,Winfield,37892,Scott,TN
+790,Woodbury,37190,Cannon,TN
+791,Woodland Mills,38271,Obion,TN
+792,Woodlawn,37191,Montgomery,TN
+793,Wynnburg,38077,Lake,TN
+794,Yorkville,38389,Gibson,TN
+795,Yuma,38390,Carroll,TN
